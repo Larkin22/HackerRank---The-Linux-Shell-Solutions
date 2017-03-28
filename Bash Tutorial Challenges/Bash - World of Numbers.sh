@@ -1,6 +1,5 @@
 Given two integers, find their sum, difference, product, and quotient.
 
-
 read X
 read Y
 
