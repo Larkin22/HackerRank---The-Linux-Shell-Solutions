@@ -8,4 +8,4 @@ from man bc:
 *bc is a language that supports arbitrary precision numbers with interactive execution of statements.
 *-l, --mathlib Define the standard math library.
 
-read x; printf "%.3f\n" `echo "$x" | bc -l`
+read x; printf "%.3f\n" `echo "$x” | bc -l`
