@@ -1,0 +1,7 @@
+Given three integers (X, Y, and Z) representing the three sides of a triangle,
+identify whether the triangle is Scalene, Isosceles, or Equilateral.
+
+Scalene triangle: having sides unequal in length.
+Isosceles triangle: having two sides of equal length.
+Equilateral triangle: having all its sides of the same length.
+
