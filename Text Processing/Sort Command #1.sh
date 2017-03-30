@@ -1,4 +1,3 @@
-'''
 Sort Options:
 
 - The vanilla sort command simply sorts the lines of the input file in
@@ -16,6 +15,7 @@ Sort Options:
 - The -t option is used while specifying a delimiter in a particular file
   where columns are separated by tabs, spaces, pipes etc.
 
-Given a text file, order the lines in lexicographical order.'''
+Given a text file, order the lines in lexicographical order.
+
 
 sort
