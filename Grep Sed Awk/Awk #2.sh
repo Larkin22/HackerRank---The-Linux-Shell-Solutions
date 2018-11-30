@@ -11,4 +11,4 @@
 
 # || <- similar to concatentation in SQL
 
-awk '{print $1,":", $2<50 || $3<50 || $3<50? "Fail":"Pass"}'
+awk '{print $1,":", $2<50 || $3<50 || $4<50? "Fail":"Pass"}'
