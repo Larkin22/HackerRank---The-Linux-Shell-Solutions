@@ -8,5 +8,5 @@
 #Perform case insensitive matching. By default, grep is case sensitive.
 
 grep -wi the
-
+#OR....
 grep -i 'the '
