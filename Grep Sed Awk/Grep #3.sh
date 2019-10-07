@@ -7,5 +7,5 @@
 #Selected lines are those not matching any of the specified patterns.
 
 grep -vi that
-
+#OR...
 grep -vi 'that '
